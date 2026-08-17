@@ -281,5 +281,80 @@
 
         </div>
     </main>
+<!-- ZONE 3: PORTFOLIO DIGITAL PRODUCT CATALOG LINKS -->
+    <section id="products" class="products-section" style="border-top: 1px solid #334155; margin-top: 60px; padding-top: 60px;">
+        <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+            
+            <div class="section-header" style="text-align: center; margin-bottom: 50px;">
+                <h2 style="color: #3B82F6; font-size: 2.5rem; margin-bottom: 12px; font-weight: 800;">Productized System Architecture Catalog</h2>
+                <p style="color: #94A3B8; margin: 0; font-size: 1.2rem;">Elite, single-click installable digital infrastructure assets maximizing operational leverage.</p>
+            </div>
+
+            <div class="products-grid" style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap; margin-bottom: 60px;">
+                
+                <!-- TIER 1A: DOCKER DEVOPS KIT -->
+                <div class="product-card" style="background: #1E293B; padding: 30px; border-radius: 12px; width: 31%; min-width: 280px; border: 1px solid #334155; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <span class="product-tier" style="color: #10B981; font-size: 11px; font-weight: bold; text-transform: uppercase; display: block; margin-bottom: 12px; letter-spacing: 1px;">STANDARD UTILITY 1A // $50</span>
+                        <h3 style="margin: 0 0 15px 0; color: white; font-size: 1.4rem; font-weight: 700;">Dockerfile & Container DevOps Kit</h3>
+                        <p style="color: #94A3B8; font-size: 13px; line-height: 1.6; margin-bottom: 20px;">Production Alpine Linux configuration manifest pre-optimized for Node.js backend port routing and automated GitHub to Render CI/CD pipelines.</p>
+                    </div>
+                    <a href="#" class="btn btn-download" style="display: block; text-align: center; background: #10B981; color: white; padding: 12px; border-radius: 6px; font-weight: bold; text-decoration: none; font-size: 14px;">Download Utility Manifest</a>
+                </div>
+
+                <!-- TIER 1B: REGEX DATA CLEANSER -->
+                <div class="product-card" style="background: #1E293B; padding: 30px; border-radius: 12px; width: 31%; min-width: 280px; border: 1px solid #334155; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <span class="product-tier" style="color: #10B981; font-size: 11px; font-weight: bold; text-transform: uppercase; display: block; margin-bottom: 12px; letter-spacing: 1px;">STANDARD UTILITY 1B // $50</span>
+                        <h3 style="margin: 0 0 15px 0; color: white; font-size: 1.4rem; font-weight: 700;">Regex & Data-Cleansing Formula Pack</h3>
+                        <p style="color: #94A3B8; font-size: 13px; line-height: 1.6; margin-bottom: 20px;">A master library of server-side text-manipulation strings to strip typos, format variables, and clean payload strings mid-flight.</p>
+                    </div>
+                    <a href="#" class="btn btn-download" style="display: block; text-align: center; background: #10B981; color: white; padding: 12px; border-radius: 6px; font-weight: bold; text-decoration: none; font-size: 14px;">Download Cleanser Pack</a>
+                </div>
+
+                <!-- TIER 2A: MAKE CORE ONBOARDING ENGINE -->
+                <div class="product-card" style="background: #1E293B; padding: 30px; border-radius: 12px; width: 31%; min-width: 280px; border: 1px solid #334155; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <span class="product-tier" style="color: #3B82F6; font-size: 11px; font-weight: bold; text-transform: uppercase; display: block; margin-bottom: 12px; letter-spacing: 1px;">MID-TIER ENGINE 2A // $150</span>
+                        <h3 style="margin: 0 0 15px 0; color: white; font-size: 1.4rem; font-weight: 700;">Automated Client Onboarding Engine</h3>
+                        <p style="color: #94A3B8; font-size: 13px; line-height: 1.6; margin-bottom: 20px;">The 3-path routing blueprint blueprint mapping HubSpot deal events directly to automated Stripe corporate invoice actions and Baserow table rows.</p>
+                    </div>
+                    <a href="#" class="btn btn-download" style="display: block; text-align: center; background: #2563EB; color: white; padding: 12px; border-radius: 6px; font-weight: bold; text-decoration: none; font-size: 14px;">Download Blueprint Asset</a>
+                </div>
+
+                <!-- TIER 2B: N8N DATABASE SYNC -->
+                <div class="product-card" style="background: #1E293B; padding: 30px; border-radius: 12px; width: 31%; min-width: 280px; border: 1px solid #334155; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <span class="product-tier" style="color: #3B82F6; font-size: 11px; font-weight: bold; text-transform: uppercase; display: block; margin-bottom: 12px; letter-spacing: 1px;">MID-TIER ENGINE 2B // $150</span>
+                        <h3 style="margin: 0 0 15px 0; color: white; font-size: 1.4rem; font-weight: 700;">n8n Production Database Sync Engine</h3>
+                        <p style="color: #94A3B8; font-size: 13px; line-height: 1.6; margin-bottom: 20px;">An advanced workflow blueprint setting up relational schema rollups and data-integrity sync tracking across multi-tenant database tables.</p>
+                    </div>
+                    <a href="#" class="btn btn-download" style="display: block; text-align: center; background: #2563EB; color: white; padding: 12px; border-radius: 6px; font-weight: bold; text-decoration: none; font-size: 14px;">Download Sync Blueprint</a>
+                </div>
+
+                <!-- TIER 3A: AI CONTENT INTEL VAULT -->
+                <div class="product-card" style="background: #1E293B; padding: 30px; border-radius: 12px; width: 31%; min-width: 280px; border: 1px solid #3B82F6; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <span class="product-tier" style="color: #A855F7; font-size: 11px; font-weight: bold; text-transform: uppercase; display: block; margin-bottom: 12px; letter-spacing: 1px;">HIGH-TIER VAULT 3A // $500</span>
+                        <h3 style="margin: 0 0 15px 0; color: white; font-size: 1.4rem; font-weight: 700;">Full-Stack Content Intelligence Vault</h3>
+                        <p style="color: #94A3B8; font-size: 13px; line-height: 1.6; margin-bottom: 20px;">The complete master assembly managing binary document downloader handshakes and automated AI RAG contextual file optimization processing nodes.</p>
+                    </div>
+                    <a href="#" class="btn btn-download" style="display: block; text-align: center; background: #A855F7; color: white; padding: 12px; border-radius: 6px; font-weight: bold; text-decoration: none; font-size: 14px;">Download AI Intel Vault</a>
+                </div>
+
+                <!-- TIER 3B: RECONCILIATION & LLMOPS ENGINEER -->
+                <div class="product-card" style="background: #1E293B; padding: 30px; border-radius: 12px; width: 31%; min-width: 280px; border: 1px solid #3B82F6; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3); display: flex; flex-direction: column; justify-content: space-between;">
+                    <div>
+                        <span class="product-tier" style="color: #A855F7; font-size: 11px; font-weight: bold; text-transform: uppercase; display: block; margin-bottom: 12px; letter-spacing: 1px;">HIGH-TIER VAULT 3B // $500</span>
+                        <h3 style="margin: 0 0 15px 0; color: white; font-size: 1.4rem; font-weight: 700;">Reconciliation & LLMOps Cost Guardrail</h3>
+                        <p style="color: #94A3B8; font-size: 13px; line-height: 1.6; margin-bottom: 20px;">Enterprise-grade ledger matching pipelines paired with live token-volume rate limiters to completely eliminate server billing spikes.</p>
+                    </div>
+                    <a href="#" class="btn btn-download" style="display: block; text-align: center; background: #A855F7; color: white; padding: 12px; border-radius: 6px; font-weight: bold; text-decoration: none; font-size: 14px;">Download Guardrail Bundle</a>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
 </body>
 </html>
