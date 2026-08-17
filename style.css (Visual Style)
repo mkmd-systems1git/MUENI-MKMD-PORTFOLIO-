@@ -1,0 +1,223 @@
+/* ==========================================================================
+   MASTER DESIGN SYSTEM VARIABLES & GLOBAL RESET CORE 
+   ========================================================================== */
+:root {
+    --bg-dark: #0F172A;       /* Midnight Blue Core Canvas */
+    --bg-card: #1E293B;       /* Deep Slate Grid Container */
+    --border-line: #334155;   /* Secure Architecture Framework Wire */
+    --primary-blue: #3B82F6;  /* Electric Innovation Accent */
+    --success-green: #10B981; /* Financial Settlement Gate Flag */
+    --vip-purple: #A855F7;    /* High-Tier Enterprise Core Node */
+    --text-main: #F8FAFC;     /* Stark High-Contrast Content Text */
+    --text-muted: #94A3B8;    /* Administrative Sub-Heading Metadata */
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-main);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.6;
+    padding: 40px 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* ==========================================================================
+   STATION 1: HERO VALUE PROPOSITION ACCELERATORS 
+   ========================================================================== */
+.hero-section {
+    padding: 80px 0 60px 0;
+    border-bottom: 1px solid var(--border-line);
+}
+
+.brand-tag {
+    color: var(--primary-blue);
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    max-width: 900px;
+}
+
+.sub-headline {
+    color: var(--text-muted);
+    font-size: 1.2rem;
+    margin-bottom: 35px;
+    max-width: 750px;
+}
+
+/* INTERACTIVE ACTION CELL TRIGGERS */
+.cta-buttons {
+    display: flex;
+    gap: 15px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 14px 28px;
+    border-radius: 6px;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 15px;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: var(--primary-blue);
+    color: white;
+}
+
+.btn-secondary {
+    border: 1px solid var(--border-line);
+    color: var(--text-main);
+}
+
+/* ==========================================================================
+   STATION 2: PLATFORM VETTING MATRIX LAYOUT 
+   ========================================================================== */
+.stack-section {
+    padding: 60px 0;
+    border-bottom: 1px solid var(--border-line);
+}
+
+h2 {
+    font-size: 1.8rem;
+    font-weight: 800;
+    margin-bottom: 35px;
+}
+
+.grid-stack {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.stack-card {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-line);
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.stack-card h3 {
+    font-size: 1.1rem;
+    color: var(--primary-blue);
+    margin-bottom: 10px;
+}
+
+.stack-card p {
+    color: var(--text-muted);
+    font-size: 14px;
+}
+
+/* ==========================================================================
+   ZONE 2: DEEP TECHNICAL CASE STUDY QUADRANTS 
+   ========================================================================== */
+.case-study-section {
+    padding: 60px 0;
+}
+
+.case-header {
+    margin-bottom: 40px;
+}
+
+.meta-date {
+    color: var(--text-muted);
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.case-header h2 {
+    font-size: 2.2rem;
+    max-width: 950px;
+    line-height: 1.3;
+}
+
+.case-quadrant {
+    background-color: var(--bg-card);
+    border: 1px solid var(--border-line);
+    padding: 40px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+}
+
+.case-quadrant h3 {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    letter-spacing: 0.5px;
+}
+
+.case-quadrant p {
+    color: var(--text-muted);
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.architecture-list {
+    margin-top: 20px;
+    padding-left: 20px;
+    color: var(--text-muted);
+    font-size: 15px;
+}
+
+.architecture-list li {
+    margin-bottom: 15px;
+}
+
+.architecture-list code {
+    background-color: var(--bg-dark);
+    padding: 3px 6px;
+    border-radius: 4px;
+    color: var(--text-main);
+    font-size: 13px;
+}
+
+/* DATA-BACKED RETURN ON INVESTMENT METRICS CARD */
+.metrics-card {
+    border-left: 4px solid var(--primary-blue);
+}
+
+.metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: 30px 0;
+    text-align: center;
+}
+
+.metric-item strong {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--text-main);
+    display: block;
+}
+
+.metric-item p {
+    font-size: 13px;
+    color: var(--text-muted);
+}
+
+.metrics-summary {
+    border-top: 1px solid var(--border-line);
+    padding-top: 20px;
+}
