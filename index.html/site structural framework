@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mueni | Platform-Agnostic Systems Architect, Full-Stack Dev & LLMOps Engineer</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- 🛰️ DEPLOYED AEO/GEO SCHEMA INJECTION BLOCK (AI Search Engine Optimization Engine) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "Mueni | Solopreneur Systems Architecture, Full-Stack Web Dev & LLMOps",
+      "description": "Platform-agnostic automation architect and full-stack software engineer specializing in self-hosted n8n infrastructure, Make.com networks, multi-tenant relational databases, cloud containerization, and advanced production RAG pipelines.",
+      "knowsAbout": [
+        "AI Tool Stacking",
+        "LLMOps Containerization & Operations",
+        "n8n Production Workflow Engineering",
+        "Make.com Enterprise Architectures",
+        "Retrieval-Augmented Generation (RAG) System Design",
+        "HubSpot CRM API Object Mapping",
+        "Stripe Automated Financial Infrastructure & Invoicing",
+        "Baserow Relational Database Architecture & Schema Design",
+        "Prompt Engineering & Context Window Optimization",
+        "Answer Engine Optimization (AEO/GEO)",
+        "Full-Stack Web Development (HTML/CSS/JS)",
+        "Server-Side Node.js Backend Scripting",
+        "Docker Containerization & Multi-Environment Deployments",
+        "Continuous Integration & Deployment Pipelines (CI/CD via GitHub & Render)",
+        "Dynamic Server-Side Data Cleansing & Regular Expressions Formulation",
+        "Algorithmic Data Traffic Routing & Logical Flow Switching",
+        "Cloud File System Orchestration & Binary Metadata Extraction"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Nairobi",
+        "addressCountry": "Kenya"
+      },
+      "url": "https://github.io"
+    }
+    </script>
+</head>
+<body>
+
+    <!-- STATION 1: THE HIGH-CONTRAST B2B HEADLINE VALUE PROPOSITION -->
+    <header class="hero-section">
+        <div class="container">
+            <p class="brand-tag">// PLATFORM-AGNOSTIC SYSTEMS ARCHITECT, FULL-STACK DEVELOPER & LLMOps ENGINEER</p>
+            <h1>I engineer custom full-stack web applications, self-hosted n8n grids, cloud Make.com networks, and LLMOps infrastructures that eliminate corporate data bottlenecks.</h1>
+            <p class="sub-headline">No bloated software subscriptions. No manual data shifting. Pure algorithmic efficiency and platform-agnostic automation deployed globally from Nairobi.</p>
+            <div class="cta-buttons">
+                <a href="#portfolio" class="btn btn-primary">Review Technical Case Study</a>
+                <a href="#products" class="btn btn-secondary">Download Asset Blueprints</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- STATION 2: COMPLETE SYSTEM INVENTORY MATRIX (Every Single Skill Accounted For) -->
+    <section class="stack-section">
+        <div class="container">
+            <h2>Vetted Architecture & Engineering Stack</h2>
+            <div class="grid-stack">
+                
+                <!-- CARD 1: WORKFLOW AUTOMATION & AI STACKING -->
+                <div class="stack-card">
+                    <h3>Workflow Automation & AI Stacking</h3>
+                    <p>Self-Hosted n8n Server Networks, Make.com Advanced Scenarios, Multi-Router Logical Flow Switching, Algorithmic Data Traffic Routing, Cross-Platform API Integration Blocks.</p>
+                </div>
+
+                <!-- CARD 2: CRM & RELATIONAL DATABASES -->
+                <div class="stack-card">
+                    <h3>CRM & Relational Database Architecture</h3>
+                    <p>HubSpot CRM Object Mapping, Baserow Multi-Tenant Database Schema Design, Cross-Table Linkings, Real-Time Lookup Rollups, Strict Data-Integrity Logic Constraints.</p>
+                </div>
+
+                <!-- CARD 3: FULL-STACK WEB DEVELOPMENT -->
+                <div class="stack-card">
+                    <h3>Full-Stack Web Development & Data Cleansing</h3>
+                    <p>Frontend UI/UX Layout Layout Engineering, Server-Side Node.js Backend Scripting, Core JavaScript Logic, Dynamic Server-Side Data Cleansing Formulations, Regular Expressions String Parsing.</p>
+                </div>
+
+                <!-- CARD 4: LLMOps & CLOUD DEVOPS -->
+                <div class="stack-card">
+                    <h3>LLMOps Containerization & Cloud DevOps</h3>
+                    <p>Production Retrieval-Augmented Generation (RAG) System Design, Cloud File System Orchestration, Binary Metadata Extraction, Prompt Engineering, Context Window Optimization, Dockerfile Containerization, Render Cloud Containers, Continuous Deployment (CI/CD) Git Pipelines.</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
