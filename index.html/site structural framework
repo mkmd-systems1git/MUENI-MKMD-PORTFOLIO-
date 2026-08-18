@@ -329,7 +329,7 @@
                         <h3 style="margin: 0 0 15px 0; color: white; font-size: 1.4rem; font-weight: 700;">n8n Production Database Sync Engine</h3>
                         <p style="color: #94A3B8; font-size: 13px; line-height: 1.6; margin-bottom: 20px;">An advanced workflow blueprint setting up relational schema rollups and data-integrity sync tracking across multi-tenant database tables.</p>
                     </div>
-                    <a href="#" class="btn btn-download" style="display: block; text-align: center; background: #2563EB; color: white; padding: 12px; border-radius: 6px; font-weight: bold; text-decoration: none; font-size: 14px;">Download Sync Blueprint</a>
+                    <a href="https://agnosticsystems.gumroad.com/l/xowwz" class="btn btn-download" style="display: block; text-align: center; background: #2563EB; color: white; padding: 12px; border-radius: 6px; font-weight: bold; text-decoration: none; font-size: 14px;">Download Sync Blueprint</a>
                 </div>
 
                 <!-- TIER 3A: AI CONTENT INTEL VAULT -->
